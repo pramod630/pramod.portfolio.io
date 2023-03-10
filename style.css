@@ -665,8 +665,19 @@ form .btn3{
     list-style: none;
     font-size: 20px;
     padding: 9px 0;
+    
+}
+.about {
+  font-size: 22px
 }
 
+
+.hellow {
+    font-size: 30px;
+}
+.name {
+  font-size: 30px;
+}
 }
     
     
